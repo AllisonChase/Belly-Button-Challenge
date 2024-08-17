@@ -1,6 +1,7 @@
 # Belly-Button-Challenge
 Module 14 Challenge assignment
 
+Used Xpert Assist to complete code as well as Office Hours help
 
 Instructions
 Complete the following steps:
